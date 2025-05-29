@@ -1,0 +1,15 @@
+C:\Users\arty_\Documents\Project_Local\1_Ejercicios_If_Else\3_NumeroPAR_Impar\bin\Debug\net8.0\3_NumeroPAR_Impar.exe
+C:\Users\arty_\Documents\Project_Local\1_Ejercicios_If_Else\3_NumeroPAR_Impar\bin\Debug\net8.0\3_NumeroPAR_Impar.deps.json
+C:\Users\arty_\Documents\Project_Local\1_Ejercicios_If_Else\3_NumeroPAR_Impar\bin\Debug\net8.0\3_NumeroPAR_Impar.runtimeconfig.json
+C:\Users\arty_\Documents\Project_Local\1_Ejercicios_If_Else\3_NumeroPAR_Impar\bin\Debug\net8.0\3_NumeroPAR_Impar.dll
+C:\Users\arty_\Documents\Project_Local\1_Ejercicios_If_Else\3_NumeroPAR_Impar\bin\Debug\net8.0\3_NumeroPAR_Impar.pdb
+C:\Users\arty_\Documents\Project_Local\1_Ejercicios_If_Else\3_NumeroPAR_Impar\obj\Debug\net8.0\3_NumeroPAR_Impar.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\arty_\Documents\Project_Local\1_Ejercicios_If_Else\3_NumeroPAR_Impar\obj\Debug\net8.0\3_NumeroPAR_Impar.AssemblyInfoInputs.cache
+C:\Users\arty_\Documents\Project_Local\1_Ejercicios_If_Else\3_NumeroPAR_Impar\obj\Debug\net8.0\3_NumeroPAR_Impar.AssemblyInfo.cs
+C:\Users\arty_\Documents\Project_Local\1_Ejercicios_If_Else\3_NumeroPAR_Impar\obj\Debug\net8.0\3_NumeroPAR_Impar.csproj.CoreCompileInputs.cache
+C:\Users\arty_\Documents\Project_Local\1_Ejercicios_If_Else\3_NumeroPAR_Impar\obj\Debug\net8.0\3_NumeroPAR_Impar.sourcelink.json
+C:\Users\arty_\Documents\Project_Local\1_Ejercicios_If_Else\3_NumeroPAR_Impar\obj\Debug\net8.0\3_NumeroPAR_Impar.dll
+C:\Users\arty_\Documents\Project_Local\1_Ejercicios_If_Else\3_NumeroPAR_Impar\obj\Debug\net8.0\refint\3_NumeroPAR_Impar.dll
+C:\Users\arty_\Documents\Project_Local\1_Ejercicios_If_Else\3_NumeroPAR_Impar\obj\Debug\net8.0\3_NumeroPAR_Impar.pdb
+C:\Users\arty_\Documents\Project_Local\1_Ejercicios_If_Else\3_NumeroPAR_Impar\obj\Debug\net8.0\3_NumeroPAR_Impar.genruntimeconfig.cache
+C:\Users\arty_\Documents\Project_Local\1_Ejercicios_If_Else\3_NumeroPAR_Impar\obj\Debug\net8.0\ref\3_NumeroPAR_Impar.dll

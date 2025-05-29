@@ -1,0 +1,15 @@
+C:\Users\arty_\Documents\Project_Local\1_Ejercicios_If_Else\1_Ejercicios_If_Else\bin\Debug\net8.0\1_Ejercicios_If_Else.exe
+C:\Users\arty_\Documents\Project_Local\1_Ejercicios_If_Else\1_Ejercicios_If_Else\bin\Debug\net8.0\1_Ejercicios_If_Else.deps.json
+C:\Users\arty_\Documents\Project_Local\1_Ejercicios_If_Else\1_Ejercicios_If_Else\bin\Debug\net8.0\1_Ejercicios_If_Else.runtimeconfig.json
+C:\Users\arty_\Documents\Project_Local\1_Ejercicios_If_Else\1_Ejercicios_If_Else\bin\Debug\net8.0\1_Ejercicios_If_Else.dll
+C:\Users\arty_\Documents\Project_Local\1_Ejercicios_If_Else\1_Ejercicios_If_Else\bin\Debug\net8.0\1_Ejercicios_If_Else.pdb
+C:\Users\arty_\Documents\Project_Local\1_Ejercicios_If_Else\1_Ejercicios_If_Else\obj\Debug\net8.0\1_Ejercicios_If_Else.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\arty_\Documents\Project_Local\1_Ejercicios_If_Else\1_Ejercicios_If_Else\obj\Debug\net8.0\1_Ejercicios_If_Else.AssemblyInfoInputs.cache
+C:\Users\arty_\Documents\Project_Local\1_Ejercicios_If_Else\1_Ejercicios_If_Else\obj\Debug\net8.0\1_Ejercicios_If_Else.AssemblyInfo.cs
+C:\Users\arty_\Documents\Project_Local\1_Ejercicios_If_Else\1_Ejercicios_If_Else\obj\Debug\net8.0\1_Ejercicios_If_Else.csproj.CoreCompileInputs.cache
+C:\Users\arty_\Documents\Project_Local\1_Ejercicios_If_Else\1_Ejercicios_If_Else\obj\Debug\net8.0\1_Ejercicios_If_Else.sourcelink.json
+C:\Users\arty_\Documents\Project_Local\1_Ejercicios_If_Else\1_Ejercicios_If_Else\obj\Debug\net8.0\1_Ejercicios_If_Else.dll
+C:\Users\arty_\Documents\Project_Local\1_Ejercicios_If_Else\1_Ejercicios_If_Else\obj\Debug\net8.0\refint\1_Ejercicios_If_Else.dll
+C:\Users\arty_\Documents\Project_Local\1_Ejercicios_If_Else\1_Ejercicios_If_Else\obj\Debug\net8.0\1_Ejercicios_If_Else.pdb
+C:\Users\arty_\Documents\Project_Local\1_Ejercicios_If_Else\1_Ejercicios_If_Else\obj\Debug\net8.0\1_Ejercicios_If_Else.genruntimeconfig.cache
+C:\Users\arty_\Documents\Project_Local\1_Ejercicios_If_Else\1_Ejercicios_If_Else\obj\Debug\net8.0\ref\1_Ejercicios_If_Else.dll

@@ -1,0 +1,15 @@
+C:\Users\arty_\Documents\Project_Local\1_Ejercicios_If_Else\4_Mayor_Dos_Numeros\bin\Debug\net8.0\4_Mayor_Dos_Numeros.exe
+C:\Users\arty_\Documents\Project_Local\1_Ejercicios_If_Else\4_Mayor_Dos_Numeros\bin\Debug\net8.0\4_Mayor_Dos_Numeros.deps.json
+C:\Users\arty_\Documents\Project_Local\1_Ejercicios_If_Else\4_Mayor_Dos_Numeros\bin\Debug\net8.0\4_Mayor_Dos_Numeros.runtimeconfig.json
+C:\Users\arty_\Documents\Project_Local\1_Ejercicios_If_Else\4_Mayor_Dos_Numeros\bin\Debug\net8.0\4_Mayor_Dos_Numeros.dll
+C:\Users\arty_\Documents\Project_Local\1_Ejercicios_If_Else\4_Mayor_Dos_Numeros\bin\Debug\net8.0\4_Mayor_Dos_Numeros.pdb
+C:\Users\arty_\Documents\Project_Local\1_Ejercicios_If_Else\4_Mayor_Dos_Numeros\obj\Debug\net8.0\4_Mayor_Dos_Numeros.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\arty_\Documents\Project_Local\1_Ejercicios_If_Else\4_Mayor_Dos_Numeros\obj\Debug\net8.0\4_Mayor_Dos_Numeros.AssemblyInfoInputs.cache
+C:\Users\arty_\Documents\Project_Local\1_Ejercicios_If_Else\4_Mayor_Dos_Numeros\obj\Debug\net8.0\4_Mayor_Dos_Numeros.AssemblyInfo.cs
+C:\Users\arty_\Documents\Project_Local\1_Ejercicios_If_Else\4_Mayor_Dos_Numeros\obj\Debug\net8.0\4_Mayor_Dos_Numeros.csproj.CoreCompileInputs.cache
+C:\Users\arty_\Documents\Project_Local\1_Ejercicios_If_Else\4_Mayor_Dos_Numeros\obj\Debug\net8.0\4_Mayor_Dos_Numeros.sourcelink.json
+C:\Users\arty_\Documents\Project_Local\1_Ejercicios_If_Else\4_Mayor_Dos_Numeros\obj\Debug\net8.0\4_Mayor_Dos_Numeros.dll
+C:\Users\arty_\Documents\Project_Local\1_Ejercicios_If_Else\4_Mayor_Dos_Numeros\obj\Debug\net8.0\refint\4_Mayor_Dos_Numeros.dll
+C:\Users\arty_\Documents\Project_Local\1_Ejercicios_If_Else\4_Mayor_Dos_Numeros\obj\Debug\net8.0\4_Mayor_Dos_Numeros.pdb
+C:\Users\arty_\Documents\Project_Local\1_Ejercicios_If_Else\4_Mayor_Dos_Numeros\obj\Debug\net8.0\4_Mayor_Dos_Numeros.genruntimeconfig.cache
+C:\Users\arty_\Documents\Project_Local\1_Ejercicios_If_Else\4_Mayor_Dos_Numeros\obj\Debug\net8.0\ref\4_Mayor_Dos_Numeros.dll

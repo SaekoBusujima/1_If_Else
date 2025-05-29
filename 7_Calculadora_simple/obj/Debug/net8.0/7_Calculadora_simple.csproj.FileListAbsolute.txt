@@ -1,0 +1,15 @@
+C:\Users\arty_\Documents\Project_Local\1_Ejercicios_If_Else\7_Calculadora_simple\bin\Debug\net8.0\7_Calculadora_simple.exe
+C:\Users\arty_\Documents\Project_Local\1_Ejercicios_If_Else\7_Calculadora_simple\bin\Debug\net8.0\7_Calculadora_simple.deps.json
+C:\Users\arty_\Documents\Project_Local\1_Ejercicios_If_Else\7_Calculadora_simple\bin\Debug\net8.0\7_Calculadora_simple.runtimeconfig.json
+C:\Users\arty_\Documents\Project_Local\1_Ejercicios_If_Else\7_Calculadora_simple\bin\Debug\net8.0\7_Calculadora_simple.dll
+C:\Users\arty_\Documents\Project_Local\1_Ejercicios_If_Else\7_Calculadora_simple\bin\Debug\net8.0\7_Calculadora_simple.pdb
+C:\Users\arty_\Documents\Project_Local\1_Ejercicios_If_Else\7_Calculadora_simple\obj\Debug\net8.0\7_Calculadora_simple.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\arty_\Documents\Project_Local\1_Ejercicios_If_Else\7_Calculadora_simple\obj\Debug\net8.0\7_Calculadora_simple.AssemblyInfoInputs.cache
+C:\Users\arty_\Documents\Project_Local\1_Ejercicios_If_Else\7_Calculadora_simple\obj\Debug\net8.0\7_Calculadora_simple.AssemblyInfo.cs
+C:\Users\arty_\Documents\Project_Local\1_Ejercicios_If_Else\7_Calculadora_simple\obj\Debug\net8.0\7_Calculadora_simple.csproj.CoreCompileInputs.cache
+C:\Users\arty_\Documents\Project_Local\1_Ejercicios_If_Else\7_Calculadora_simple\obj\Debug\net8.0\7_Calculadora_simple.sourcelink.json
+C:\Users\arty_\Documents\Project_Local\1_Ejercicios_If_Else\7_Calculadora_simple\obj\Debug\net8.0\7_Calculadora_simple.dll
+C:\Users\arty_\Documents\Project_Local\1_Ejercicios_If_Else\7_Calculadora_simple\obj\Debug\net8.0\refint\7_Calculadora_simple.dll
+C:\Users\arty_\Documents\Project_Local\1_Ejercicios_If_Else\7_Calculadora_simple\obj\Debug\net8.0\7_Calculadora_simple.pdb
+C:\Users\arty_\Documents\Project_Local\1_Ejercicios_If_Else\7_Calculadora_simple\obj\Debug\net8.0\7_Calculadora_simple.genruntimeconfig.cache
+C:\Users\arty_\Documents\Project_Local\1_Ejercicios_If_Else\7_Calculadora_simple\obj\Debug\net8.0\ref\7_Calculadora_simple.dll

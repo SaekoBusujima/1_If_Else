@@ -1,0 +1,15 @@
+C:\Users\arty_\Documents\Project_Local\1_Ejercicios_If_Else\2_Edad_Y_Votacion\bin\Debug\net8.0\2_Edad_Y_Votacion.exe
+C:\Users\arty_\Documents\Project_Local\1_Ejercicios_If_Else\2_Edad_Y_Votacion\bin\Debug\net8.0\2_Edad_Y_Votacion.deps.json
+C:\Users\arty_\Documents\Project_Local\1_Ejercicios_If_Else\2_Edad_Y_Votacion\bin\Debug\net8.0\2_Edad_Y_Votacion.runtimeconfig.json
+C:\Users\arty_\Documents\Project_Local\1_Ejercicios_If_Else\2_Edad_Y_Votacion\bin\Debug\net8.0\2_Edad_Y_Votacion.dll
+C:\Users\arty_\Documents\Project_Local\1_Ejercicios_If_Else\2_Edad_Y_Votacion\bin\Debug\net8.0\2_Edad_Y_Votacion.pdb
+C:\Users\arty_\Documents\Project_Local\1_Ejercicios_If_Else\2_Edad_Y_Votacion\obj\Debug\net8.0\2_Edad_Y_Votacion.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\arty_\Documents\Project_Local\1_Ejercicios_If_Else\2_Edad_Y_Votacion\obj\Debug\net8.0\2_Edad_Y_Votacion.AssemblyInfoInputs.cache
+C:\Users\arty_\Documents\Project_Local\1_Ejercicios_If_Else\2_Edad_Y_Votacion\obj\Debug\net8.0\2_Edad_Y_Votacion.AssemblyInfo.cs
+C:\Users\arty_\Documents\Project_Local\1_Ejercicios_If_Else\2_Edad_Y_Votacion\obj\Debug\net8.0\2_Edad_Y_Votacion.csproj.CoreCompileInputs.cache
+C:\Users\arty_\Documents\Project_Local\1_Ejercicios_If_Else\2_Edad_Y_Votacion\obj\Debug\net8.0\2_Edad_Y_Votacion.sourcelink.json
+C:\Users\arty_\Documents\Project_Local\1_Ejercicios_If_Else\2_Edad_Y_Votacion\obj\Debug\net8.0\2_Edad_Y_Votacion.dll
+C:\Users\arty_\Documents\Project_Local\1_Ejercicios_If_Else\2_Edad_Y_Votacion\obj\Debug\net8.0\refint\2_Edad_Y_Votacion.dll
+C:\Users\arty_\Documents\Project_Local\1_Ejercicios_If_Else\2_Edad_Y_Votacion\obj\Debug\net8.0\2_Edad_Y_Votacion.pdb
+C:\Users\arty_\Documents\Project_Local\1_Ejercicios_If_Else\2_Edad_Y_Votacion\obj\Debug\net8.0\2_Edad_Y_Votacion.genruntimeconfig.cache
+C:\Users\arty_\Documents\Project_Local\1_Ejercicios_If_Else\2_Edad_Y_Votacion\obj\Debug\net8.0\ref\2_Edad_Y_Votacion.dll

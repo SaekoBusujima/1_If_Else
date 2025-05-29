@@ -1,10 +1,50 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Proyectos_Local\\1_Ejercicios_If_Else\\",
+  "WorkspaceRootPath": "C:\\Users\\arty_\\Documents\\Project_Local\\1_Ejercicios_If_Else\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{D27AD279-FE16-4544-908A-3E3D2150271A}|1_Ejercicios_If_Else\\1_Ejercicios_If_Else.csproj|c:\\proyectos_local\\1_ejercicios_if_else\\1_ejercicios_if_else\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{8697CB2E-06C4-48A3-A89C-0F4DA53A8D4E}|10_Clasificaci\u00F3n de temperatura\\10_Clasificaci\u00F3n de temperatura.csproj|c:\\users\\arty_\\documents\\project_local\\1_ejercicios_if_else\\10_clasificaci\u00F3n de temperatura\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8697CB2E-06C4-48A3-A89C-0F4DA53A8D4E}|10_Clasificaci\u00F3n de temperatura\\10_Clasificaci\u00F3n de temperatura.csproj|solutionrelative:10_clasificaci\u00F3n de temperatura\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E49A8425-AAE0-4B58-A4AC-3A7EA43EE02A}|3_NumeroPAR_Impar\\3_NumeroPAR_Impar.csproj|c:\\users\\arty_\\documents\\project_local\\1_ejercicios_if_else\\3_numeropar_impar\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E49A8425-AAE0-4B58-A4AC-3A7EA43EE02A}|3_NumeroPAR_Impar\\3_NumeroPAR_Impar.csproj|solutionrelative:3_numeropar_impar\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2F2F2E06-AE46-4761-A6E0-61E2E4027171}|7_Calculadora_simple\\7_Calculadora_simple.csproj|c:\\users\\arty_\\documents\\project_local\\1_ejercicios_if_else\\7_calculadora_simple\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2F2F2E06-AE46-4761-A6E0-61E2E4027171}|7_Calculadora_simple\\7_Calculadora_simple.csproj|solutionrelative:7_calculadora_simple\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1A13375D-FD1E-4E03-ACF3-4B505518EB0E}|8_-Identificar vocales y consonantes\\8_Identificar vocales y consonantes.csproj|c:\\users\\arty_\\documents\\project_local\\1_ejercicios_if_else\\8_-identificar vocales y consonantes\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1A13375D-FD1E-4E03-ACF3-4B505518EB0E}|8_-Identificar vocales y consonantes\\8_Identificar vocales y consonantes.csproj|solutionrelative:8_-identificar vocales y consonantes\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9714A0E6-EC62-48F3-8A58-0E6D7B26A61E}|9_Descuento por edad\\9_Descuento por edad.csproj|c:\\users\\arty_\\documents\\project_local\\1_ejercicios_if_else\\9_descuento por edad\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9714A0E6-EC62-48F3-8A58-0E6D7B26A61E}|9_Descuento por edad\\9_Descuento por edad.csproj|solutionrelative:9_descuento por edad\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{27F6CA48-831C-4677-9214-69D5561AB125}|6_Calificacion\\6_Calificacion.csproj|c:\\users\\arty_\\documents\\project_local\\1_ejercicios_if_else\\6_calificacion\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{27F6CA48-831C-4677-9214-69D5561AB125}|6_Calificacion\\6_Calificacion.csproj|solutionrelative:6_calificacion\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BFBCCBCD-44E5-4011-AC6A-00895F8E1404}|5_A\u00F1o_bisiesto\\5_A\u00F1o_bisiesto.csproj|c:\\users\\arty_\\documents\\project_local\\1_ejercicios_if_else\\5_a\u00F1o_bisiesto\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BFBCCBCD-44E5-4011-AC6A-00895F8E1404}|5_A\u00F1o_bisiesto\\5_A\u00F1o_bisiesto.csproj|solutionrelative:5_a\u00F1o_bisiesto\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0BFC951F-2F48-44C4-9BA8-A4FCCDD89D1C}|4_Mayor_Dos_Numeros\\4_Mayor_Dos_Numeros.csproj|c:\\users\\arty_\\documents\\project_local\\1_ejercicios_if_else\\4_mayor_dos_numeros\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0BFC951F-2F48-44C4-9BA8-A4FCCDD89D1C}|4_Mayor_Dos_Numeros\\4_Mayor_Dos_Numeros.csproj|solutionrelative:4_mayor_dos_numeros\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D27AD279-FE16-4544-908A-3E3D2150271A}|1_Ejercicios_If_Else\\1_Ejercicios_If_Else.csproj|c:\\users\\arty_\\documents\\project_local\\1_ejercicios_if_else\\1_ejercicios_if_else\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D27AD279-FE16-4544-908A-3E3D2150271A}|1_Ejercicios_If_Else\\1_Ejercicios_If_Else.csproj|solutionrelative:1_ejercicios_if_else\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B8AB2872-94FC-4360-8F90-8BD398EBB438}|2_Edad_Y_Votacion\\2_Edad_Y_Votacion.csproj|c:\\users\\arty_\\documents\\project_local\\1_ejercicios_if_else\\2_edad_y_votacion\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B8AB2872-94FC-4360-8F90-8BD398EBB438}|2_Edad_Y_Votacion\\2_Edad_Y_Votacion.csproj|solutionrelative:2_edad_y_votacion\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1232B2AB-0347-4457-B4B5-C6CA3D4773BF}|Numero_Negativo_Positivo\\Numero_Negativo_Positivo.csproj|c:\\users\\arty_\\documents\\project_local\\1_ejercicios_if_else\\numero_negativo_positivo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1232B2AB-0347-4457-B4B5-C6CA3D4773BF}|Numero_Negativo_Positivo\\Numero_Negativo_Positivo.csproj|solutionrelative:numero_negativo_positivo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -24,14 +64,138 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Proyectos_Local\\1_Ejercicios_If_Else\\1_Ejercicios_If_Else\\Program.cs",
-              "RelativeDocumentMoniker": "1_Ejercicios_If_Else\\Program.cs",
-              "ToolTip": "C:\\Proyectos_Local\\1_Ejercicios_If_Else\\1_Ejercicios_If_Else\\Program.cs",
-              "RelativeToolTip": "1_Ejercicios_If_Else\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "DocumentMoniker": "C:\\Users\\arty_\\Documents\\Project_Local\\1_Ejercicios_If_Else\\10_Clasificaci\u00F3n de temperatura\\Program.cs",
+              "RelativeDocumentMoniker": "10_Clasificaci\u00F3n de temperatura\\Program.cs",
+              "ToolTip": "C:\\Users\\arty_\\Documents\\Project_Local\\1_Ejercicios_If_Else\\10_Clasificaci\u00F3n de temperatura\\Program.cs",
+              "RelativeToolTip": "10_Clasificaci\u00F3n de temperatura\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAtAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-27T21:39:31.944Z",
+              "WhenOpened": "2025-05-26T21:07:03.907Z",
               "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\arty_\\Documents\\Project_Local\\1_Ejercicios_If_Else\\9_Descuento por edad\\Program.cs",
+              "RelativeDocumentMoniker": "9_Descuento por edad\\Program.cs",
+              "ToolTip": "C:\\Users\\arty_\\Documents\\Project_Local\\1_Ejercicios_If_Else\\9_Descuento por edad\\Program.cs",
+              "RelativeToolTip": "9_Descuento por edad\\Program.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAxwBEAAABUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-23T22:40:27.725Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\arty_\\Documents\\Project_Local\\1_Ejercicios_If_Else\\8_-Identificar vocales y consonantes\\Program.cs",
+              "RelativeDocumentMoniker": "8_-Identificar vocales y consonantes\\Program.cs",
+              "ToolTip": "C:\\Users\\arty_\\Documents\\Project_Local\\1_Ejercicios_If_Else\\8_-Identificar vocales y consonantes\\Program.cs",
+              "RelativeToolTip": "8_-Identificar vocales y consonantes\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-23T22:27:31.62Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\arty_\\Documents\\Project_Local\\1_Ejercicios_If_Else\\7_Calculadora_simple\\Program.cs",
+              "RelativeDocumentMoniker": "7_Calculadora_simple\\Program.cs",
+              "ToolTip": "C:\\Users\\arty_\\Documents\\Project_Local\\1_Ejercicios_If_Else\\7_Calculadora_simple\\Program.cs",
+              "RelativeToolTip": "7_Calculadora_simple\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-23T21:55:47.742Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\arty_\\Documents\\Project_Local\\1_Ejercicios_If_Else\\6_Calificacion\\Program.cs",
+              "RelativeDocumentMoniker": "6_Calificacion\\Program.cs",
+              "ToolTip": "C:\\Users\\arty_\\Documents\\Project_Local\\1_Ejercicios_If_Else\\6_Calificacion\\Program.cs",
+              "RelativeToolTip": "6_Calificacion\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-23T21:31:45.831Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\arty_\\Documents\\Project_Local\\1_Ejercicios_If_Else\\5_A\u00F1o_bisiesto\\Program.cs",
+              "RelativeDocumentMoniker": "5_A\u00F1o_bisiesto\\Program.cs",
+              "ToolTip": "C:\\Users\\arty_\\Documents\\Project_Local\\1_Ejercicios_If_Else\\5_A\u00F1o_bisiesto\\Program.cs",
+              "RelativeToolTip": "5_A\u00F1o_bisiesto\\Program.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAA1wBgAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-23T20:14:45.597Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\arty_\\Documents\\Project_Local\\1_Ejercicios_If_Else\\4_Mayor_Dos_Numeros\\Program.cs",
+              "RelativeDocumentMoniker": "4_Mayor_Dos_Numeros\\Program.cs",
+              "ToolTip": "C:\\Users\\arty_\\Documents\\Project_Local\\1_Ejercicios_If_Else\\4_Mayor_Dos_Numeros\\Program.cs",
+              "RelativeToolTip": "4_Mayor_Dos_Numeros\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAABFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-21T21:57:34.152Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\arty_\\Documents\\Project_Local\\1_Ejercicios_If_Else\\3_NumeroPAR_Impar\\Program.cs",
+              "RelativeDocumentMoniker": "3_NumeroPAR_Impar\\Program.cs",
+              "ToolTip": "C:\\Users\\arty_\\Documents\\Project_Local\\1_Ejercicios_If_Else\\3_NumeroPAR_Impar\\Program.cs",
+              "RelativeToolTip": "3_NumeroPAR_Impar\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-21T21:34:59.343Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\arty_\\Documents\\Project_Local\\1_Ejercicios_If_Else\\2_Edad_Y_Votacion\\Program.cs",
+              "RelativeDocumentMoniker": "2_Edad_Y_Votacion\\Program.cs",
+              "ToolTip": "C:\\Users\\arty_\\Documents\\Project_Local\\1_Ejercicios_If_Else\\2_Edad_Y_Votacion\\Program.cs",
+              "RelativeToolTip": "2_Edad_Y_Votacion\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-21T21:18:51.897Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\arty_\\Documents\\Project_Local\\1_Ejercicios_If_Else\\Numero_Negativo_Positivo\\Program.cs",
+              "RelativeDocumentMoniker": "Numero_Negativo_Positivo\\Program.cs",
+              "ToolTip": "C:\\Users\\arty_\\Documents\\Project_Local\\1_Ejercicios_If_Else\\Numero_Negativo_Positivo\\Program.cs",
+              "RelativeToolTip": "Numero_Negativo_Positivo\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-02T20:59:14.741Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\arty_\\Documents\\Project_Local\\1_Ejercicios_If_Else\\1_Ejercicios_If_Else\\Program.cs",
+              "RelativeDocumentMoniker": "1_Ejercicios_If_Else\\Program.cs",
+              "ToolTip": "C:\\Users\\arty_\\Documents\\Project_Local\\1_Ejercicios_If_Else\\1_Ejercicios_If_Else\\Program.cs",
+              "RelativeToolTip": "1_Ejercicios_If_Else\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-27T21:39:31.944Z"
             }
           ]
         }

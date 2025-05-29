@@ -1,0 +1,15 @@
+C:\Users\arty_\Documents\Project_Local\1_Ejercicios_If_Else\8_-Identificar vocales y consonantes\bin\Debug\net8.0\8_Identificar vocales y consonantes.exe
+C:\Users\arty_\Documents\Project_Local\1_Ejercicios_If_Else\8_-Identificar vocales y consonantes\bin\Debug\net8.0\8_Identificar vocales y consonantes.deps.json
+C:\Users\arty_\Documents\Project_Local\1_Ejercicios_If_Else\8_-Identificar vocales y consonantes\bin\Debug\net8.0\8_Identificar vocales y consonantes.runtimeconfig.json
+C:\Users\arty_\Documents\Project_Local\1_Ejercicios_If_Else\8_-Identificar vocales y consonantes\bin\Debug\net8.0\8_Identificar vocales y consonantes.dll
+C:\Users\arty_\Documents\Project_Local\1_Ejercicios_If_Else\8_-Identificar vocales y consonantes\bin\Debug\net8.0\8_Identificar vocales y consonantes.pdb
+C:\Users\arty_\Documents\Project_Local\1_Ejercicios_If_Else\8_-Identificar vocales y consonantes\obj\Debug\net8.0\8_Identificar vocales y consonantes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\arty_\Documents\Project_Local\1_Ejercicios_If_Else\8_-Identificar vocales y consonantes\obj\Debug\net8.0\8_Identificar vocales y consonantes.AssemblyInfoInputs.cache
+C:\Users\arty_\Documents\Project_Local\1_Ejercicios_If_Else\8_-Identificar vocales y consonantes\obj\Debug\net8.0\8_Identificar vocales y consonantes.AssemblyInfo.cs
+C:\Users\arty_\Documents\Project_Local\1_Ejercicios_If_Else\8_-Identificar vocales y consonantes\obj\Debug\net8.0\8_Identificar vocales y consonantes.csproj.CoreCompileInputs.cache
+C:\Users\arty_\Documents\Project_Local\1_Ejercicios_If_Else\8_-Identificar vocales y consonantes\obj\Debug\net8.0\8_Identificar vocales y consonantes.sourcelink.json
+C:\Users\arty_\Documents\Project_Local\1_Ejercicios_If_Else\8_-Identificar vocales y consonantes\obj\Debug\net8.0\8_Identificar vocales y consonantes.dll
+C:\Users\arty_\Documents\Project_Local\1_Ejercicios_If_Else\8_-Identificar vocales y consonantes\obj\Debug\net8.0\refint\8_Identificar vocales y consonantes.dll
+C:\Users\arty_\Documents\Project_Local\1_Ejercicios_If_Else\8_-Identificar vocales y consonantes\obj\Debug\net8.0\8_Identificar vocales y consonantes.pdb
+C:\Users\arty_\Documents\Project_Local\1_Ejercicios_If_Else\8_-Identificar vocales y consonantes\obj\Debug\net8.0\8_Identificar vocales y consonantes.genruntimeconfig.cache
+C:\Users\arty_\Documents\Project_Local\1_Ejercicios_If_Else\8_-Identificar vocales y consonantes\obj\Debug\net8.0\ref\8_Identificar vocales y consonantes.dll

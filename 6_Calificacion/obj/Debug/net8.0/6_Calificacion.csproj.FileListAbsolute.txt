@@ -1,0 +1,15 @@
+C:\Users\arty_\Documents\Project_Local\1_Ejercicios_If_Else\6_Calificacion\bin\Debug\net8.0\6_Calificacion.exe
+C:\Users\arty_\Documents\Project_Local\1_Ejercicios_If_Else\6_Calificacion\bin\Debug\net8.0\6_Calificacion.deps.json
+C:\Users\arty_\Documents\Project_Local\1_Ejercicios_If_Else\6_Calificacion\bin\Debug\net8.0\6_Calificacion.runtimeconfig.json
+C:\Users\arty_\Documents\Project_Local\1_Ejercicios_If_Else\6_Calificacion\bin\Debug\net8.0\6_Calificacion.dll
+C:\Users\arty_\Documents\Project_Local\1_Ejercicios_If_Else\6_Calificacion\bin\Debug\net8.0\6_Calificacion.pdb
+C:\Users\arty_\Documents\Project_Local\1_Ejercicios_If_Else\6_Calificacion\obj\Debug\net8.0\6_Calificacion.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\arty_\Documents\Project_Local\1_Ejercicios_If_Else\6_Calificacion\obj\Debug\net8.0\6_Calificacion.AssemblyInfoInputs.cache
+C:\Users\arty_\Documents\Project_Local\1_Ejercicios_If_Else\6_Calificacion\obj\Debug\net8.0\6_Calificacion.AssemblyInfo.cs
+C:\Users\arty_\Documents\Project_Local\1_Ejercicios_If_Else\6_Calificacion\obj\Debug\net8.0\6_Calificacion.csproj.CoreCompileInputs.cache
+C:\Users\arty_\Documents\Project_Local\1_Ejercicios_If_Else\6_Calificacion\obj\Debug\net8.0\6_Calificacion.sourcelink.json
+C:\Users\arty_\Documents\Project_Local\1_Ejercicios_If_Else\6_Calificacion\obj\Debug\net8.0\6_Calificacion.dll
+C:\Users\arty_\Documents\Project_Local\1_Ejercicios_If_Else\6_Calificacion\obj\Debug\net8.0\refint\6_Calificacion.dll
+C:\Users\arty_\Documents\Project_Local\1_Ejercicios_If_Else\6_Calificacion\obj\Debug\net8.0\6_Calificacion.pdb
+C:\Users\arty_\Documents\Project_Local\1_Ejercicios_If_Else\6_Calificacion\obj\Debug\net8.0\6_Calificacion.genruntimeconfig.cache
+C:\Users\arty_\Documents\Project_Local\1_Ejercicios_If_Else\6_Calificacion\obj\Debug\net8.0\ref\6_Calificacion.dll

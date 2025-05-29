@@ -1,0 +1,15 @@
+C:\Users\arty_\Documents\Project_Local\1_Ejercicios_If_Else\9_Descuento por edad\bin\Debug\net8.0\9_Descuento por edad.exe
+C:\Users\arty_\Documents\Project_Local\1_Ejercicios_If_Else\9_Descuento por edad\bin\Debug\net8.0\9_Descuento por edad.deps.json
+C:\Users\arty_\Documents\Project_Local\1_Ejercicios_If_Else\9_Descuento por edad\bin\Debug\net8.0\9_Descuento por edad.runtimeconfig.json
+C:\Users\arty_\Documents\Project_Local\1_Ejercicios_If_Else\9_Descuento por edad\bin\Debug\net8.0\9_Descuento por edad.dll
+C:\Users\arty_\Documents\Project_Local\1_Ejercicios_If_Else\9_Descuento por edad\bin\Debug\net8.0\9_Descuento por edad.pdb
+C:\Users\arty_\Documents\Project_Local\1_Ejercicios_If_Else\9_Descuento por edad\obj\Debug\net8.0\9_Descuento por edad.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\arty_\Documents\Project_Local\1_Ejercicios_If_Else\9_Descuento por edad\obj\Debug\net8.0\9_Descuento por edad.AssemblyInfoInputs.cache
+C:\Users\arty_\Documents\Project_Local\1_Ejercicios_If_Else\9_Descuento por edad\obj\Debug\net8.0\9_Descuento por edad.AssemblyInfo.cs
+C:\Users\arty_\Documents\Project_Local\1_Ejercicios_If_Else\9_Descuento por edad\obj\Debug\net8.0\9_Descuento por edad.csproj.CoreCompileInputs.cache
+C:\Users\arty_\Documents\Project_Local\1_Ejercicios_If_Else\9_Descuento por edad\obj\Debug\net8.0\9_Descuento por edad.sourcelink.json
+C:\Users\arty_\Documents\Project_Local\1_Ejercicios_If_Else\9_Descuento por edad\obj\Debug\net8.0\9_Descuento por edad.dll
+C:\Users\arty_\Documents\Project_Local\1_Ejercicios_If_Else\9_Descuento por edad\obj\Debug\net8.0\refint\9_Descuento por edad.dll
+C:\Users\arty_\Documents\Project_Local\1_Ejercicios_If_Else\9_Descuento por edad\obj\Debug\net8.0\9_Descuento por edad.pdb
+C:\Users\arty_\Documents\Project_Local\1_Ejercicios_If_Else\9_Descuento por edad\obj\Debug\net8.0\9_Descuento por edad.genruntimeconfig.cache
+C:\Users\arty_\Documents\Project_Local\1_Ejercicios_If_Else\9_Descuento por edad\obj\Debug\net8.0\ref\9_Descuento por edad.dll

@@ -1,0 +1,15 @@
+C:\Users\arty_\Documents\Project_Local\1_Ejercicios_If_Else\10_Clasificación de temperatura\bin\Debug\net8.0\10_Clasificación de temperatura.exe
+C:\Users\arty_\Documents\Project_Local\1_Ejercicios_If_Else\10_Clasificación de temperatura\bin\Debug\net8.0\10_Clasificación de temperatura.deps.json
+C:\Users\arty_\Documents\Project_Local\1_Ejercicios_If_Else\10_Clasificación de temperatura\bin\Debug\net8.0\10_Clasificación de temperatura.runtimeconfig.json
+C:\Users\arty_\Documents\Project_Local\1_Ejercicios_If_Else\10_Clasificación de temperatura\bin\Debug\net8.0\10_Clasificación de temperatura.dll
+C:\Users\arty_\Documents\Project_Local\1_Ejercicios_If_Else\10_Clasificación de temperatura\bin\Debug\net8.0\10_Clasificación de temperatura.pdb
+C:\Users\arty_\Documents\Project_Local\1_Ejercicios_If_Else\10_Clasificación de temperatura\obj\Debug\net8.0\10_Clasificación de temperatura.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\arty_\Documents\Project_Local\1_Ejercicios_If_Else\10_Clasificación de temperatura\obj\Debug\net8.0\10_Clasificación de temperatura.AssemblyInfoInputs.cache
+C:\Users\arty_\Documents\Project_Local\1_Ejercicios_If_Else\10_Clasificación de temperatura\obj\Debug\net8.0\10_Clasificación de temperatura.AssemblyInfo.cs
+C:\Users\arty_\Documents\Project_Local\1_Ejercicios_If_Else\10_Clasificación de temperatura\obj\Debug\net8.0\10_Clasificación de temperatura.csproj.CoreCompileInputs.cache
+C:\Users\arty_\Documents\Project_Local\1_Ejercicios_If_Else\10_Clasificación de temperatura\obj\Debug\net8.0\10_Clasificación de temperatura.sourcelink.json
+C:\Users\arty_\Documents\Project_Local\1_Ejercicios_If_Else\10_Clasificación de temperatura\obj\Debug\net8.0\10_Clasificación de temperatura.dll
+C:\Users\arty_\Documents\Project_Local\1_Ejercicios_If_Else\10_Clasificación de temperatura\obj\Debug\net8.0\refint\10_Clasificación de temperatura.dll
+C:\Users\arty_\Documents\Project_Local\1_Ejercicios_If_Else\10_Clasificación de temperatura\obj\Debug\net8.0\10_Clasificación de temperatura.pdb
+C:\Users\arty_\Documents\Project_Local\1_Ejercicios_If_Else\10_Clasificación de temperatura\obj\Debug\net8.0\10_Clasificación de temperatura.genruntimeconfig.cache
+C:\Users\arty_\Documents\Project_Local\1_Ejercicios_If_Else\10_Clasificación de temperatura\obj\Debug\net8.0\ref\10_Clasificación de temperatura.dll

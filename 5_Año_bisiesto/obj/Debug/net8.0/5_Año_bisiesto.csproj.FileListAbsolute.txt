@@ -1,0 +1,15 @@
+C:\Users\arty_\Documents\Project_Local\1_Ejercicios_If_Else\5_Año_bisiesto\bin\Debug\net8.0\5_Año_bisiesto.exe
+C:\Users\arty_\Documents\Project_Local\1_Ejercicios_If_Else\5_Año_bisiesto\bin\Debug\net8.0\5_Año_bisiesto.deps.json
+C:\Users\arty_\Documents\Project_Local\1_Ejercicios_If_Else\5_Año_bisiesto\bin\Debug\net8.0\5_Año_bisiesto.runtimeconfig.json
+C:\Users\arty_\Documents\Project_Local\1_Ejercicios_If_Else\5_Año_bisiesto\bin\Debug\net8.0\5_Año_bisiesto.dll
+C:\Users\arty_\Documents\Project_Local\1_Ejercicios_If_Else\5_Año_bisiesto\bin\Debug\net8.0\5_Año_bisiesto.pdb
+C:\Users\arty_\Documents\Project_Local\1_Ejercicios_If_Else\5_Año_bisiesto\obj\Debug\net8.0\5_Año_bisiesto.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\arty_\Documents\Project_Local\1_Ejercicios_If_Else\5_Año_bisiesto\obj\Debug\net8.0\5_Año_bisiesto.AssemblyInfoInputs.cache
+C:\Users\arty_\Documents\Project_Local\1_Ejercicios_If_Else\5_Año_bisiesto\obj\Debug\net8.0\5_Año_bisiesto.AssemblyInfo.cs
+C:\Users\arty_\Documents\Project_Local\1_Ejercicios_If_Else\5_Año_bisiesto\obj\Debug\net8.0\5_Año_bisiesto.csproj.CoreCompileInputs.cache
+C:\Users\arty_\Documents\Project_Local\1_Ejercicios_If_Else\5_Año_bisiesto\obj\Debug\net8.0\5_Año_bisiesto.sourcelink.json
+C:\Users\arty_\Documents\Project_Local\1_Ejercicios_If_Else\5_Año_bisiesto\obj\Debug\net8.0\5_Año_bisiesto.dll
+C:\Users\arty_\Documents\Project_Local\1_Ejercicios_If_Else\5_Año_bisiesto\obj\Debug\net8.0\refint\5_Año_bisiesto.dll
+C:\Users\arty_\Documents\Project_Local\1_Ejercicios_If_Else\5_Año_bisiesto\obj\Debug\net8.0\5_Año_bisiesto.pdb
+C:\Users\arty_\Documents\Project_Local\1_Ejercicios_If_Else\5_Año_bisiesto\obj\Debug\net8.0\5_Año_bisiesto.genruntimeconfig.cache
+C:\Users\arty_\Documents\Project_Local\1_Ejercicios_If_Else\5_Año_bisiesto\obj\Debug\net8.0\ref\5_Año_bisiesto.dll

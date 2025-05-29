@@ -1,0 +1,15 @@
+C:\Users\arty_\Documents\Project_Local\1_Ejercicios_If_Else\Numero_Negativo_Positivo\bin\Debug\net8.0\Numero_Negativo_Positivo.exe
+C:\Users\arty_\Documents\Project_Local\1_Ejercicios_If_Else\Numero_Negativo_Positivo\bin\Debug\net8.0\Numero_Negativo_Positivo.deps.json
+C:\Users\arty_\Documents\Project_Local\1_Ejercicios_If_Else\Numero_Negativo_Positivo\bin\Debug\net8.0\Numero_Negativo_Positivo.runtimeconfig.json
+C:\Users\arty_\Documents\Project_Local\1_Ejercicios_If_Else\Numero_Negativo_Positivo\bin\Debug\net8.0\Numero_Negativo_Positivo.dll
+C:\Users\arty_\Documents\Project_Local\1_Ejercicios_If_Else\Numero_Negativo_Positivo\bin\Debug\net8.0\Numero_Negativo_Positivo.pdb
+C:\Users\arty_\Documents\Project_Local\1_Ejercicios_If_Else\Numero_Negativo_Positivo\obj\Debug\net8.0\Numero_Negativo_Positivo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\arty_\Documents\Project_Local\1_Ejercicios_If_Else\Numero_Negativo_Positivo\obj\Debug\net8.0\Numero_Negativo_Positivo.AssemblyInfoInputs.cache
+C:\Users\arty_\Documents\Project_Local\1_Ejercicios_If_Else\Numero_Negativo_Positivo\obj\Debug\net8.0\Numero_Negativo_Positivo.AssemblyInfo.cs
+C:\Users\arty_\Documents\Project_Local\1_Ejercicios_If_Else\Numero_Negativo_Positivo\obj\Debug\net8.0\Numero_Negativo_Positivo.csproj.CoreCompileInputs.cache
+C:\Users\arty_\Documents\Project_Local\1_Ejercicios_If_Else\Numero_Negativo_Positivo\obj\Debug\net8.0\Numero_Negativo_Positivo.sourcelink.json
+C:\Users\arty_\Documents\Project_Local\1_Ejercicios_If_Else\Numero_Negativo_Positivo\obj\Debug\net8.0\Numero_Negativo_Positivo.dll
+C:\Users\arty_\Documents\Project_Local\1_Ejercicios_If_Else\Numero_Negativo_Positivo\obj\Debug\net8.0\refint\Numero_Negativo_Positivo.dll
+C:\Users\arty_\Documents\Project_Local\1_Ejercicios_If_Else\Numero_Negativo_Positivo\obj\Debug\net8.0\Numero_Negativo_Positivo.pdb
+C:\Users\arty_\Documents\Project_Local\1_Ejercicios_If_Else\Numero_Negativo_Positivo\obj\Debug\net8.0\Numero_Negativo_Positivo.genruntimeconfig.cache
+C:\Users\arty_\Documents\Project_Local\1_Ejercicios_If_Else\Numero_Negativo_Positivo\obj\Debug\net8.0\ref\Numero_Negativo_Positivo.dll
